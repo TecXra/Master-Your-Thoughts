@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'LucidaHandwriting';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LucidaHandwriting'),
+  local('LHANDW'),
+  url(LHANDW.TTF) format('truetype');
+}
+
+@font-face {
+  font-family: 'LucidaHandwritingItalic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LucidaHandwritingItalic'),
+  local('Lucida-Handwriting-Italic'),
+  url(Lucida-Handwriting-Italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'LucidaHandwritingQkMarisa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LucidaHandwritingQkMarisa'),
+  local('qkmarisa'),
+  url(qkmarisa.ttf) format('truetype');
+}

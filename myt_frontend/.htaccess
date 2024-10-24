@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule (.*) http://localhost:8100/$1 [P,L]
+DirectoryIndex index.html index.shtml index.htm Index.html Index.htm Index.shtml default.htm Default.htm default.html Default.html default.shtml Default.shtml

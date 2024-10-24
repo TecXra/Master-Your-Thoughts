@@ -1,0 +1,44 @@
+.wallpaper-toolbar .toolbar-btn
+{
+	text-align: center;
+	border: solid 1px $white;
+	margin-bottom: 0.5rem;
+	padding: 1rem 0;
+	border-radius: 3px;
+	cursor: pointer;
+	color: $white;
+}
+
+.wallpaper-toolbar .toolbar-btn .toolbar-btn-icon
+{
+	font-size: 1.5rem;
+}
+.wallpaper-toolbar .toolbar-btn .toolbar-btn-text
+{
+	font-size: 1rem;
+}
+
+.wallpaper-toolbar .toolbar-btn
+{
+	border: solid 1px $white;
+	color: $white;
+}
+.wallpaper-toolbar .toolbar-btn-text,
+.wallpaper-toolbar .toolbar-btn-icon
+{
+	color: $white;
+}
+.wallpaper-toolbar .toolbar-btn:hover
+{
+	color: $default;
+	background-color: $white;
+}
+.wallpaper-toolbar .toolbar-btn:hover .toolbar-btn-text,
+.wallpaper-toolbar .toolbar-btn:hover .toolbar-btn-icon,
+.wallpaper-toolbar .toolbar-btn.active .toolbar-btn-text,
+.wallpaper-toolbar .toolbar-btn.active .toolbar-btn-icon,
+.wallpaper-toolbar .toolbar-btn.active
+{
+	color: $default;
+	background-color: $white;
+}
