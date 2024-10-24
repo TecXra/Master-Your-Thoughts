@@ -7,7 +7,7 @@ Here at Master Your Thoughts Boot Camp we believe that people are moving away fr
 
 ## User Dashboard
 
-![User Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/tree/master/myt_frontend/assets/images/readme/UserDashboard.png)
+![User Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/blob/master/myt_frontend/assets/images/readme/UserDashboard.png)
 
 * Practice Check Question
 * Video Review Question
