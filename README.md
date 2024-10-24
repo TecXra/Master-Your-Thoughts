@@ -7,7 +7,7 @@ Here at Master Your Thoughts Boot Camp we believe that people are moving away fr
 
 ## User Dashboard
 
-![User Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/-/raw/dev/assets/images/readme/UserDashboard.png)
+![User Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/-/raw/master/assets/images/readme/UserDashboard.png)
 
 * Practice Check Question
 * Video Review Question
@@ -19,7 +19,7 @@ Here at Master Your Thoughts Boot Camp we believe that people are moving away fr
 
 ## Admin Dashboard
 
-![Admin Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/-/raw/dev/assets/images/readme/AdminDashboard.png)
+![Admin Main Dashboard](https://github.com/TecXra/Master-Your-Thoughts/-/raw/master/assets/images/readme/AdminDashboard.png)
 
 * Practice Check Question Management
 * Video Review Question Management
